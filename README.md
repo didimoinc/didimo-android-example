@@ -21,19 +21,19 @@ This project has only been tested with the following development environments:
 
 Please ensure that you can successfully build a basic Android app using Android Studio and that the JDK is installed before importing this project.
 
-## Unity build
-- Open the folder didimo-digital-human-unity-project/ with Unity, platform Android.
-- In build settings check "Export project" 
-- In player settings, disable ARM7 and select minimum API 28
-- Use the Build/Build Android menu option to export to the correct project folder
+## 1. Unity build
+1. Open the folder didimo-digital-human-unity-project/ with Unity, platform Android
+2. In build settings check "Export project" 
+3. In player settings, disable ARM7 and select minimum API 28
+4. Use the Build/Build Android menu option to export to the correct project folder
 
-## Android Studio build
+## 2. Android Studio build
 
-- Open the folder NativeAndroidApp/ with Android Studio
-- Ensure local.properties NDK and SDK paths point to the Unity install used earlier
-- Run a Gradle build
-- Run Make Project
-- Deploy to device or ARM64 emulator
+1. Open the folder NativeAndroidApp/ with Android Studio
+2. Ensure local.properties NDK and SDK paths point to the Unity install used earlier
+3. Run a Gradle build
+4. Run Make Project
+5. Deploy to device or ARM64 emulator
 
 
 
