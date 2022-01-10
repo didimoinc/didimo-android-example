@@ -22,10 +22,11 @@ Please ensure that you can successfully build a basic Android app using Android 
 
 ## 1. Unity build
 
-1. 1. Open the folder ./didimo-digital-human-unity-project/ with Unity, and choose the Android platform.
-2. In build settings check "Export project".
-3. In player settings, disable ARM7 and select minimum API 28.
-4. Use the Unity top menu to select "Build" -> "Build Android" menu option to export to the correct project folder.
+1. Open the folder ./didimo-digital-human-unity-project/ with Unity, and choose the Android platform.
+2. Open the Test scene, and click to install the TextMeshPro Required files
+3. In build settings check "Export project".
+4. In player settings, disable ARM7 and select minimum API 28.
+5. Use the Unity top menu to select "Build" -> "Build Android" menu option to export to the correct project folder.
 
 ## 2. Android Studio build
 
