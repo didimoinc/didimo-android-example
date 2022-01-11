@@ -35,12 +35,14 @@ Please ensure that you can successfully build a basic Android app using Android 
       sdk.dir=C\:\\Unity\\2020.3.12f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK
       ndk.dir=C\:\\Unity\\2020.3.12f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK
       ```
-3. Run a Gradle build.
+      
+3. Go to File → Project Structure... → SDK Location → Gradle Settings. Select a Gradle JDK with version 11.
+4. Run a Gradle build.
    1. If you run into an error similar to 
    ```
    [CXX1104] NDK from ndk.dir at NDK_PATH had version [19.0.5232133] which disagrees with android.ndkVersion [23.1.7779620]
     ```
    Open the file `NativeAndroidApp\app\build.gradle`, and update the property ndkVersion, e.g. `ndkVersion '19.0.5232133'`
-4. Run Make Project.
-5. Deploy to device or ARM64 emulator.
+5. Run Make Project.
+6. Deploy to device or ARM64 emulator.
 
