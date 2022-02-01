@@ -4,6 +4,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Process;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.FrameLayout;
@@ -43,7 +44,7 @@ public class MainUnityActivity extends CommunicationActivity {
             }
     }
 
-    @Override
+    //@Override
     protected void showMainActivity(String setToColor) {
         Intent intent = new Intent(this, MainActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_REORDER_TO_FRONT | Intent.FLAG_ACTIVITY_SINGLE_TOP);
@@ -55,13 +56,26 @@ public class MainUnityActivity extends CommunicationActivity {
         showMainActivity("");
     }
 
-    public DidimoUnityInterface.DefaultResponseInterface testResponse;
     void testDidimo(){
-       if(didimoUnityInterface != null)
-            didimoUnityInterface.ResetCamera(true, testResponse);
-       else
+       if(didimoUnityInterface != null) {
+           Log.i("DDM", "Not null");
+           didimoUnityInterface.ResetCamera(true, new DidimoUnityInterface.DefaultResponseInterface() {
+               @Override
+               public void onSuccess() {
+                   Log.i("DDM", "SUCCESS!");
+               }
+
+               @Override
+               public void onError(String message) {
+                   Log.i("DDM", "ERROR: " + message);
+               }
+           });
+       }else{
+        Log.i("DDM", "Null");
         mUnityPlayer.UnitySendMessage("Cube", "Didimo interface is null", "yellow");
     }
+    }
+
     public void addControlsToUnityFrame() {
         FrameLayout layout = mUnityPlayer;
         {

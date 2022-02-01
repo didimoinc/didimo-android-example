@@ -219,77 +219,92 @@
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\google\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
       <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
-      <option name="url" value="file:/$PROJECT_DIR$/../../../UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="name" value="d:\UnityInstalls\2020.3.12f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\extras\android\m2repository" />
+      <option name="url" value="file:/$USER_HOME$/UnityInstalls/2020.3.12f1/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+      <option name="name" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+      <option name="url" value="file:/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/android/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+      <option name="name" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+      <option name="url" value="file:/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/google/m2repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="name" value="/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
+      <option name="url" value="file:/Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/AndroidPlayer/SDK/extras/m2repository" />
     </remote-repository>
   </component>
 </project>
