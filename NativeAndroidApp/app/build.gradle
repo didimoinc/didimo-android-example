@@ -14,7 +14,7 @@ dependencies {
 
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 31
 
     defaultConfig {
         applicationId "com.unity.mynativeapp"
@@ -40,8 +40,8 @@ android {
     }
     ndkVersion '23.1.7779620'
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
     buildToolsVersion '30.0.2'
 }
